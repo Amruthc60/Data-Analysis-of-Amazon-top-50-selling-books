@@ -1,1 +1,2 @@
 # Data-Analysis-of-Amazon-top-50-selling-books
+Conducted a comprehensive data analysis on Amazon’s top 50 bestselling books to identify trends in genre, authors, pricing, and customer ratings. Utilized Python libraries such as Pandas, Matplotlib, and Seaborn to clean and visualize the dataset. The project provided insights into factors influencing book sales, such as price distribution, rating correlations, and genre popularity, offering actionable conclusions for market trends in the publishing industry.
